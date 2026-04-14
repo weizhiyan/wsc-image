@@ -16,8 +16,9 @@
 
 - **Claude Code**（推荐）— 完整支持 AskUserQuestion 弹窗交互
 - **Trae**（推荐）— 同样支持 Skills 机制，交互体验一致
+- **WorkBuddy**（推荐）— 同样支持 Skills 机制，交互体验一致
 - 其他支持 Claude Skills 协议的工具
-
+...
 ---
 
 ## 核心能力
