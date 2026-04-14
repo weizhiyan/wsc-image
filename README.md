@@ -7,8 +7,8 @@
 
 ## 🎨 WSC Creative Suite 系列成员
 
-- **[wsc-image](https://github.com/weizhiyan/wsc-image)** — AI 视觉创意专家（生图、视频提示词优化）
-- **[wsc-ux](https://github.com/weizhiyan/wsc-idea)** — UI/UX 设计与需求专家（界面、交互优化）
+- **[wsc-skill-image](https://github.com/weizhiyan/wsc-image)** — AI 视觉创意专家（生图、视频提示词优化）
+- **[wsc-skill-ux](https://github.com/weizhiyan/wsc-idea)** — UI/UX 设计与需求专家（界面、交互优化）
 
 ---
 
